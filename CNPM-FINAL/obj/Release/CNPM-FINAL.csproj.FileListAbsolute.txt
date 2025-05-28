@@ -1,0 +1,1195 @@
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.en.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.vi.resx
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.en.Designer.cs
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.exe.config
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.exe
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.pdb
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\en\CNPM-FINAL.resources.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\vi\CNPM-FINAL.resources.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\BCrypt.Net-Next.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\BouncyCastle.Cryptography.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\DocumentFormat.OpenXml.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.Interfaces.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.System.Drawing.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\itextsharp.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Options.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Primitives.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Newtonsoft.Json.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Buffers.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ComponentModel.Annotations.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Data.SqlClient.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Diagnostics.DiagnosticSource.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Memory.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Numerics.Vectors.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Threading.Tasks.Extensions.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ValueTuple.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\BCrypt.Net-Next.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\BouncyCastle.Cryptography.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\DocumentFormat.OpenXml.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\itextsharp.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Options.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Primitives.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\Newtonsoft.Json.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Buffers.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Data.SqlClient.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Diagnostics.DiagnosticSource.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.pdb
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Memory.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Numerics.Vectors.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Threading.Tasks.Extensions.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ValueTuple.xml
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.AssemblyReference.cache
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.Properties.Resources.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.en.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.vi.resources
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.GenerateResource.cache
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.CoreCompileInputs.cache
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\en\CNPM-FINAL.resources.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\vi\CNPM-FINAL.resources.dll
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.Up2Date
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.exe
+E:\WorkSpace\C#\projects\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.pdb
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.en.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.vi.resx
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.en.Designer.cs
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.exe.config
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.exe
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.pdb
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\en\CNPM-FINAL.resources.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\vi\CNPM-FINAL.resources.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\BCrypt.Net-Next.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\BouncyCastle.Cryptography.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\DocumentFormat.OpenXml.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.Interfaces.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.System.Drawing.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\itextsharp.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Options.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Newtonsoft.Json.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Buffers.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ComponentModel.Annotations.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Data.SqlClient.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Memory.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Numerics.Vectors.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ValueTuple.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\BCrypt.Net-Next.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\BouncyCastle.Cryptography.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\DocumentFormat.OpenXml.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\itextsharp.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Options.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\Newtonsoft.Json.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Buffers.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Data.SqlClient.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.pdb
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Memory.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Numerics.Vectors.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ValueTuple.xml
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.AssemblyReference.cache
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.Properties.Resources.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.en.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.vi.resources
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.GenerateResource.cache
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.CoreCompileInputs.cache
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\en\CNPM-FINAL.resources.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\vi\CNPM-FINAL.resources.dll
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.Up2Date
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.exe
+D:\SE\dev\CNPM-FINAL (4)\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.pdb
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.en.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.vi.resx
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.en.Designer.cs
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.exe.config
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.exe
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.pdb
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\en\CNPM-FINAL.resources.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\vi\CNPM-FINAL.resources.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\BCrypt.Net-Next.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\BouncyCastle.Cryptography.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\DocumentFormat.OpenXml.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.Interfaces.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.System.Drawing.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\itextsharp.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Options.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Newtonsoft.Json.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Buffers.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ComponentModel.Annotations.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Data.SqlClient.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Memory.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Numerics.Vectors.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ValueTuple.dll
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\BCrypt.Net-Next.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\BouncyCastle.Cryptography.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\DocumentFormat.OpenXml.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\itextsharp.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Options.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\Newtonsoft.Json.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Buffers.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Data.SqlClient.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.pdb
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Memory.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Numerics.Vectors.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ValueTuple.xml
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.AssemblyReference.cache
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.Properties.Resources.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.en.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.vi.resources
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.GenerateResource.cache
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.CoreCompileInputs.cache
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\en\CNPM-FINAL.resources.dll
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\vi\CNPM-FINAL.resources.dll
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.Up2Date
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.exe
+D:\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.pdb
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.en.Designer.cs
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.exe.config
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.exe
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.pdb
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\en\CNPM-FINAL.resources.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\vi\CNPM-FINAL.resources.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\BCrypt.Net-Next.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\BouncyCastle.Cryptography.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\DocumentFormat.OpenXml.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.Interfaces.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.System.Drawing.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\itextsharp.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Options.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Newtonsoft.Json.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Buffers.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ComponentModel.Annotations.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Data.SqlClient.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Memory.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Numerics.Vectors.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ValueTuple.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\BCrypt.Net-Next.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\BouncyCastle.Cryptography.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\DocumentFormat.OpenXml.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\itextsharp.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Options.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\Newtonsoft.Json.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Buffers.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Data.SqlClient.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.pdb
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Memory.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Numerics.Vectors.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ValueTuple.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.AssemblyReference.cache
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.Properties.Resources.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.GenerateResource.cache
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.CoreCompileInputs.cache
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\en\CNPM-FINAL.resources.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\vi\CNPM-FINAL.resources.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.Up2Date
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.exe
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.pdb
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\BLL\UserBLL.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\DAL\BaseDAL.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\DashboardGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\ForgotPasswordGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\LoginGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\DateCommissionGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Commission\ListCommissionGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\CreateContractGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Contract\ListContractGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\CreatePaymentGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\ListPaymentGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Payment\UpdatePaymentGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\PaymentReportGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\QuantityReportGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\RevenueReportGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Report\StatusReportGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ChatbotGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\ContactGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Support\MainSupportGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\CreateTaskGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\ListTaskGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\Task\UpdateTaskGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\CreateUserGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\ListUserGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdatePermissionGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UpdateUserGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.en.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\SubItem\User\UserInfoGUI.vi.resx
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\GUI\MainGUI.en.Designer.cs
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.exe.config
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.exe
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\CNPM-FINAL.pdb
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\en\CNPM-FINAL.resources.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\vi\CNPM-FINAL.resources.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\BCrypt.Net-Next.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\BouncyCastle.Cryptography.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\DocumentFormat.OpenXml.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.Interfaces.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.System.Drawing.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\itextsharp.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Options.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Newtonsoft.Json.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Buffers.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ComponentModel.Annotations.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Data.SqlClient.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Memory.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Numerics.Vectors.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ValueTuple.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\BCrypt.Net-Next.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\BouncyCastle.Cryptography.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\DocumentFormat.OpenXml.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\EPPlus.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\itextsharp.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Options.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\Newtonsoft.Json.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Buffers.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Data.SqlClient.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.pdb
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Drawing.Common.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Memory.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Numerics.Vectors.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\bin\Release\System.ValueTuple.xml
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.AssemblyReference.cache
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.Properties.Resources.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.BLL.UserBLL.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.DAL.BaseDAL.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.DashboardGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.ForgotPasswordGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.LoginGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.DateCommissionGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Commission.ListCommissionGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.CreateContractGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.ListContractGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Contract.UpdateContractGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.CreatePaymentGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.ListPaymentGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Payment.UpdatePaymentGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.PaymentReportGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.QuantityReportGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.RevenueReportGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Report.StatusReportGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ChatbotGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.ContactGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Support.MainSupportGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.CreateTaskGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskDetailGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.ListTaskGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.Task.UpdateTaskGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.CreateUserGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.ListUserGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdatePermissionGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UpdateUserGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.en.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.MainGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM_FINAL.GUI.SubItem.User.UserInfoGUI.vi.resources
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.GenerateResource.cache
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.CoreCompileInputs.cache
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\en\CNPM-FINAL.resources.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\vi\CNPM-FINAL.resources.dll
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.csproj.Up2Date
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.exe
+D:\SE\dev\New folder\CNPM-FINAL\CNPM-FINAL\obj\Release\CNPM-FINAL.pdb

@@ -1,0 +1,861 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5E29ED7B-2AC6-4BE3-A889-3B2D3A786E05}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CNPM_FINAL</RootNamespace>
+    <AssemblyName>CNPM-FINAL</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BCrypt.Net-Next, Version=4.0.3.0, Culture=neutral, PublicKeyToken=1e11be04b6288443, processorArchitecture=MSIL">
+      <HintPath>..\packages\BCrypt.Net-Next.4.0.3\lib\net48\BCrypt.Net-Next.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.0.5022.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXmlSDK.2.0\lib\Net35\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus, Version=7.5.1.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.7.5.1\lib\net462\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.Interfaces, Version=7.5.0.0, Culture=neutral, PublicKeyToken=a694d7f3b0907a61, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.Interfaces.7.5.0\lib\net462\EPPlus.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.System.Drawing, Version=7.5.0.0, Culture=neutral, PublicKeyToken=2308d35469c9bac0, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.System.Drawing.7.5.0\lib\net462\EPPlus.System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.4\lib\net461\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.9.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.9.0.0\lib\net462\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.9.0.0\lib\net462\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.9.0.0\lib\net462\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.9.0.0\lib\net462\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.9.0.0\lib\net462\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.9.0.0\lib\net462\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IO.RecyclableMemoryStream.3.0.1\lib\netstandard2.0\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.4.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.6.0\lib\net462\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.5.0.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.9.0\lib\net462\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.9.0.0\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.9.0.0\lib\net462\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.6.0\lib\net462\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.5.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.6.0\lib\net462\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.1.0\lib\net462\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.6.0\lib\net462\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\ChartDLL.cs" />
+    <Compile Include="BLL\CommissionBLL.cs" />
+    <Compile Include="BLL\ContractBLL.cs" />
+    <Compile Include="BLL\FileBLL.cs" />
+    <Compile Include="BLL\PaymentStageBLL.cs" />
+    <Compile Include="BLL\ReportBLL.cs" />
+    <Compile Include="BLL\SettingBLL.cs" />
+    <Compile Include="BLL\TaskProgressBLL.cs" />
+    <Compile Include="BLL\UserBLL.cs" />
+    <Compile Include="Context\BuisinessException.cs" />
+    <Compile Include="Context\ResourceContext.cs" />
+    <Compile Include="Context\SettingContext.cs" />
+    <Compile Include="Context\UserContext.cs" />
+    <Compile Include="DAL\BaseDAL.cs" />
+    <Compile Include="DAL\ChartDAL.cs" />
+    <Compile Include="DAL\CommissionDAL.cs" />
+    <Compile Include="DAL\PaymentStageDAL.cs" />
+    <Compile Include="DAL\ReportDAL.cs" />
+    <Compile Include="DAL\SettingDAL.cs" />
+    <Compile Include="DTO\ChatHistoryEntryDTO.cs" />
+    <Compile Include="DTO\DocumentDTO.cs" />
+    <Compile Include="DTO\PaymentStageDTO.cs" />
+    <Compile Include="DTO\ReportDTO.cs" />
+    <Compile Include="DTO\SettingDTO.cs" />
+    <Compile Include="Event\ContractEventArgs.cs" />
+    <Compile Include="Event\FileEventArgs.cs" />
+    <Compile Include="Event\PaymentEventArgs.cs" />
+    <Compile Include="Event\TaskDetailEventArgs.cs" />
+    <Compile Include="Event\TaskEventArgs.cs" />
+    <Compile Include="Event\UserEventArgs.cs" />
+    <Compile Include="GUI\CustomControl\BaseControl.cs" />
+    <Compile Include="GUI\CustomControl\CircularPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GUI\CustomControl\BorderButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GUI\CustomControl\BorderPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DTO\CommissionDTO.cs" />
+    <Compile Include="DTO\ContractDTO.cs" />
+    <Compile Include="DTO\TaskProgressDTO.cs" />
+    <Compile Include="DTO\UserDTO.cs" />
+    <Compile Include="GUI\DashboardGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\DashboardGUI.Designer.cs">
+      <DependentUpon>DashboardGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ForgotPasswordGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ForgotPasswordGUI.Designer.cs">
+      <DependentUpon>ForgotPasswordGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\LoginGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\LoginGUI.Designer.cs">
+      <DependentUpon>LoginGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\MainGUI.Designer.cs">
+      <DependentUpon>MainGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainGUI.en.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MainGUI.en.resx</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="GUI\MainGUI.vi.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MainGUI.vi.resx</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Commission\DateCommissionGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Commission\DateCommissionGUI.Designer.cs">
+      <DependentUpon>DateCommissionGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Commission\ListCommissionGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Commission\ListCommissionGUI.Designer.cs">
+      <DependentUpon>ListCommissionGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Contract\CreateContractGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Contract\CreateContractGUI.Designer.cs">
+      <DependentUpon>CreateContractGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Contract\ListContractGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Contract\ListContractGUI.Designer.cs">
+      <DependentUpon>ListContractGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Contract\UpdateContractGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Contract\UpdateContractGUI.Designer.cs">
+      <DependentUpon>UpdateContractGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Payment\CreatePaymentGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Payment\CreatePaymentGUI.Designer.cs">
+      <DependentUpon>CreatePaymentGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Payment\ListPaymentGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Payment\ListPaymentGUI.Designer.cs">
+      <DependentUpon>ListPaymentGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Payment\UpdatePaymentGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Payment\UpdatePaymentGUI.Designer.cs">
+      <DependentUpon>UpdatePaymentGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Report\PaymentReportGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Report\PaymentReportGUI.Designer.cs">
+      <DependentUpon>PaymentReportGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Report\QuantityReportGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Report\QuantityReportGUI.Designer.cs">
+      <DependentUpon>QuantityReportGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Report\RevenueReportGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Report\RevenueReportGUI.Designer.cs">
+      <DependentUpon>RevenueReportGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Report\StatusReportGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Report\StatusReportGUI.Designer.cs">
+      <DependentUpon>StatusReportGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Support\ChatbotGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Support\ChatbotGUI.Designer.cs">
+      <DependentUpon>ChatbotGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Support\ContactGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Support\ContactGUI.Designer.cs">
+      <DependentUpon>ContactGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Support\MainSupportGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Support\MainSupportGUI.Designer.cs">
+      <DependentUpon>MainSupportGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Task\CreateTaskGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Task\CreateTaskGUI.Designer.cs">
+      <DependentUpon>CreateTaskGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Task\ListTaskDetailGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Task\ListTaskDetailGUI.Designer.cs">
+      <DependentUpon>ListTaskDetailGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Task\ListTaskGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Task\ListTaskGUI.Designer.cs">
+      <DependentUpon>ListTaskGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\Task\UpdateTaskGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\Task\UpdateTaskGUI.Designer.cs">
+      <DependentUpon>UpdateTaskGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\User\CreateUserGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\User\CreateUserGUI.Designer.cs">
+      <DependentUpon>CreateUserGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\User\ListUserGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\User\ListUserGUI.Designer.cs">
+      <DependentUpon>ListUserGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\User\UpdatePermissionGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\User\UpdatePermissionGUI.Designer.cs">
+      <DependentUpon>UpdatePermissionGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\User\UpdateUserGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\User\UpdateUserGUI.Designer.cs">
+      <DependentUpon>UpdateUserGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SubItem\User\UserInfoGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SubItem\User\UserInfoGUI.Designer.cs">
+      <DependentUpon>UserInfoGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DAL\ContractDAL.cs" />
+    <Compile Include="DAL\TaskProgressDAL.cs" />
+    <Compile Include="DAL\UserDAL.cs" />
+    <EmbeddedResource Include="BLL\UserBLL.en.resx">
+      <DependentUpon>UserBLL.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BLL\UserBLL.resx">
+      <DependentUpon>UserBLL.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BLL\UserBLL.vi.resx">
+      <DependentUpon>UserBLL.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DAL\BaseDAL.en.resx">
+      <DependentUpon>BaseDAL.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DAL\BaseDAL.resx">
+      <DependentUpon>BaseDAL.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DAL\BaseDAL.vi.resx">
+      <DependentUpon>BaseDAL.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\DashboardGUI.en.resx">
+      <DependentUpon>DashboardGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\DashboardGUI.resx">
+      <DependentUpon>DashboardGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\DashboardGUI.vi.resx">
+      <DependentUpon>DashboardGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ForgotPasswordGUI.en.resx">
+      <DependentUpon>ForgotPasswordGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ForgotPasswordGUI.resx">
+      <DependentUpon>ForgotPasswordGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ForgotPasswordGUI.vi.resx">
+      <DependentUpon>ForgotPasswordGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\LoginGUI.en.resx">
+      <DependentUpon>LoginGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\LoginGUI.resx">
+      <DependentUpon>LoginGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\LoginGUI.vi.resx">
+      <DependentUpon>LoginGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainGUI.resx">
+      <DependentUpon>MainGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Commission\DateCommissionGUI.en.resx">
+      <DependentUpon>DateCommissionGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Commission\DateCommissionGUI.resx">
+      <DependentUpon>DateCommissionGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Commission\DateCommissionGUI.vi.resx">
+      <DependentUpon>DateCommissionGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Commission\ListCommissionGUI.en.resx">
+      <DependentUpon>ListCommissionGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Commission\ListCommissionGUI.resx">
+      <DependentUpon>ListCommissionGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Commission\ListCommissionGUI.vi.resx">
+      <DependentUpon>ListCommissionGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Contract\CreateContractGUI.en.resx">
+      <DependentUpon>CreateContractGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Contract\CreateContractGUI.resx">
+      <DependentUpon>CreateContractGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Contract\CreateContractGUI.vi.resx">
+      <DependentUpon>CreateContractGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Contract\ListContractGUI.en.resx">
+      <DependentUpon>ListContractGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Contract\ListContractGUI.resx">
+      <DependentUpon>ListContractGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Contract\ListContractGUI.vi.resx">
+      <DependentUpon>ListContractGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Contract\UpdateContractGUI.en.resx">
+      <DependentUpon>UpdateContractGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Contract\UpdateContractGUI.resx">
+      <DependentUpon>UpdateContractGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Contract\UpdateContractGUI.vi.resx">
+      <DependentUpon>UpdateContractGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Payment\CreatePaymentGUI.en.resx">
+      <DependentUpon>CreatePaymentGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Payment\CreatePaymentGUI.resx">
+      <DependentUpon>CreatePaymentGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Payment\CreatePaymentGUI.vi.resx">
+      <DependentUpon>CreatePaymentGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Payment\ListPaymentGUI.en.resx">
+      <DependentUpon>ListPaymentGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Payment\ListPaymentGUI.resx">
+      <DependentUpon>ListPaymentGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Payment\ListPaymentGUI.vi.resx">
+      <DependentUpon>ListPaymentGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Payment\UpdatePaymentGUI.en.resx">
+      <DependentUpon>UpdatePaymentGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Payment\UpdatePaymentGUI.resx">
+      <DependentUpon>UpdatePaymentGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Payment\UpdatePaymentGUI.vi.resx">
+      <DependentUpon>UpdatePaymentGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Report\PaymentReportGUI.en.resx">
+      <DependentUpon>PaymentReportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Report\PaymentReportGUI.resx">
+      <DependentUpon>PaymentReportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Report\PaymentReportGUI.vi.resx">
+      <DependentUpon>PaymentReportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Report\QuantityReportGUI.en.resx">
+      <DependentUpon>QuantityReportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Report\QuantityReportGUI.resx">
+      <DependentUpon>QuantityReportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Report\QuantityReportGUI.vi.resx">
+      <DependentUpon>QuantityReportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Report\RevenueReportGUI.en.resx">
+      <DependentUpon>RevenueReportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Report\RevenueReportGUI.resx">
+      <DependentUpon>RevenueReportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Report\RevenueReportGUI.vi.resx">
+      <DependentUpon>RevenueReportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Report\StatusReportGUI.en.resx">
+      <DependentUpon>StatusReportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Report\StatusReportGUI.resx">
+      <DependentUpon>StatusReportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Report\StatusReportGUI.vi.resx">
+      <DependentUpon>StatusReportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Support\ChatbotGUI.en.resx">
+      <DependentUpon>ChatbotGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Support\ChatbotGUI.resx">
+      <DependentUpon>ChatbotGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Support\ChatbotGUI.vi.resx">
+      <DependentUpon>ChatbotGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Support\ContactGUI.en.resx">
+      <DependentUpon>ContactGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Support\ContactGUI.resx">
+      <DependentUpon>ContactGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Support\ContactGUI.vi.resx">
+      <DependentUpon>ContactGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Support\MainSupportGUI.en.resx">
+      <DependentUpon>MainSupportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Support\MainSupportGUI.resx">
+      <DependentUpon>MainSupportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Support\MainSupportGUI.vi.resx">
+      <DependentUpon>MainSupportGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Task\CreateTaskGUI.en.resx">
+      <DependentUpon>CreateTaskGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Task\CreateTaskGUI.resx">
+      <DependentUpon>CreateTaskGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Task\CreateTaskGUI.vi.resx">
+      <DependentUpon>CreateTaskGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Task\ListTaskDetailGUI.en.resx">
+      <DependentUpon>ListTaskDetailGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Task\ListTaskDetailGUI.resx">
+      <DependentUpon>ListTaskDetailGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Task\ListTaskDetailGUI.vi.resx">
+      <DependentUpon>ListTaskDetailGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Task\ListTaskGUI.en.resx">
+      <DependentUpon>ListTaskGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Task\ListTaskGUI.resx">
+      <DependentUpon>ListTaskGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Task\ListTaskGUI.vi.resx">
+      <DependentUpon>ListTaskGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Task\UpdateTaskGUI.en.resx">
+      <DependentUpon>UpdateTaskGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Task\UpdateTaskGUI.resx">
+      <DependentUpon>UpdateTaskGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\Task\UpdateTaskGUI.vi.resx">
+      <DependentUpon>UpdateTaskGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\CreateUserGUI.en.resx">
+      <DependentUpon>CreateUserGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\CreateUserGUI.resx">
+      <DependentUpon>CreateUserGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\CreateUserGUI.vi.resx">
+      <DependentUpon>CreateUserGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\ListUserGUI.en.resx">
+      <DependentUpon>ListUserGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\ListUserGUI.resx">
+      <DependentUpon>ListUserGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\ListUserGUI.vi.resx">
+      <DependentUpon>ListUserGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\UpdatePermissionGUI.en.resx">
+      <DependentUpon>UpdatePermissionGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\UpdatePermissionGUI.resx">
+      <DependentUpon>UpdatePermissionGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\UpdatePermissionGUI.vi.resx">
+      <DependentUpon>UpdatePermissionGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\UpdateUserGUI.en.resx">
+      <DependentUpon>UpdateUserGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\UpdateUserGUI.resx">
+      <DependentUpon>UpdateUserGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\UpdateUserGUI.vi.resx">
+      <DependentUpon>UpdateUserGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\UserInfoGUI.en.resx">
+      <DependentUpon>UserInfoGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\UserInfoGUI.resx">
+      <DependentUpon>UserInfoGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainGUI.en.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>MainGUI.en.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainGUI.vi.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>MainGUI.vi.Designer.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SubItem\User\UserInfoGUI.vi.resx">
+      <DependentUpon>UserInfoGUI.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_remove_icon_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BaoCaoVaThongKe_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BaoCaoVaThongKe_logo_ 24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bieuDoCot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bieuDoCotChong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bieudoDuong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BieuDoTron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\defaultAvatar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HopDongVaDuAn_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HopDongVaDuAn_logo_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_filter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoApp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TienDoCongViec_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TienDoCongViec_logo_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TienDoThanhToan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TienDoThanhToan_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrangChu_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrangChu_logo_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updateIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updateIcon_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uploadFile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file_text_icon_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_file_icon_18x18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_plus_icon_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_chinhSuaThongTinNguoiDung_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_info_information_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key_fill_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key_fill_icon_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security_user_half_icon_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help_info_mark_question_support_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_plus_icon_white_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ILLink\ILLink.Descriptors.LibraryBuild.xml" />
+    <None Include="Resources\information_icon.png" />
+    <None Include="Resources\x_icon.png" />
+    <None Include="Resources\minimize_icon.png" />
+    <None Include="Resources\TrangChu_logo_24x241.png" />
+    <None Include="Resources\airplane_send.png" />
+    <None Include="Resources\attach_file_icon.png" />
+    <None Include="Resources\chatbot.png" />
+    <None Include="Resources\contact.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
